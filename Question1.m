@@ -1,11 +1,3 @@
-% Affan Selim Kaya 
-% 200709006
-% Computer Engineering (Eng)
-% Introduction to Programming 
-% CEN103
-% 2020-2021 1st Somestr
-% Project 2 Question 1
-% Asst.Prof. Deniz Dal
 
 % Loop Explanation**
 % We need to use while loop,because we dont know the time when the value of car will under %30 and it will keep going untill it is under a certain percent
