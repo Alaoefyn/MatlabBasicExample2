@@ -1,14 +1,6 @@
-% Affan Selim Kaya 
-% 200709006
-% Computer Engineering (Eng)
-% Introduction to Programming 
-% CEN103
-% 2020-2021 1st Somestr
-% Project 2 Question 2
-% Asst.Prof. Deniz Dal
 
 % Loop Explanation**
-% On the example they want us to code go on untýll we type -1,so we need to use while loop
+% On the example they want us to code go on untÃ½ll we type -1,so we need to use while loop
 
 numericVal = input("Please enter a numeric value = ");
 % Starting with typing a numeric value 
@@ -50,8 +42,8 @@ else
     questionc_counter = 0;
 end
 
-% If we want to calculate questýona,we need type a value like 1.2
-% If we not type a number like that,our questýona says NaN to us
+% If we want to calculate questÃ½ona,we need type a value like 1.2
+% If we not type a number like that,our questÃ½ona says NaN to us
 
 % Here is actual loop
 while numericVal ~= -1
@@ -108,7 +100,7 @@ end
 
 % Controlling and printing values on command screen if the wanted value entered
 % If mathemathican didnt type -1 as numeric value,code will keep runing
-% Also,ýf we type enter button wýthout a numeric,we will get a error
+% Also,Ã½f we type enter button wÃ½thout a numeric,we will get a error
 
 fprintf("a) arithmetic mean of positive floating-point numbers = %g\n", questiona/questiona_counter)
 fprintf("b) harmonic mean of negative odd integers = %g\n", questionb_counter/questionb)
