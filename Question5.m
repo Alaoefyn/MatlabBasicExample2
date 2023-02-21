@@ -1,11 +1,4 @@
-% Affan Selim Kaya 
-% 200709006
-% Computer Engineering (Eng)
-% Introduction to Programming 
-% CEN103
-% 2020-2021 1st Somestr
-% Project 2 Question 5
-% Asst.Prof. Deniz Dal
+
 
 enteredMonths = input("Please type how many months you worked at this place = ");
 % We are asking employee how many months he/she spend at that workplace?
