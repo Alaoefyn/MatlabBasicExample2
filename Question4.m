@@ -1,11 +1,4 @@
-% Affan Selim Kaya 
-% 200709006
-% Computer Engineering (Eng)
-% Introduction to Programming 
-% CEN103
-% 2020-2021 1st Somestr
-% Project 2 Question 4
-% Asst.Prof. Deniz Dal
+
 
 enteredNumber = input("Please enter a number for factorial calculation = ");
 % We need to give an number to start factorial calculations
